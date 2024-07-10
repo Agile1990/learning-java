@@ -122,5 +122,20 @@ public class Variables {
         int remainderResult2 = 10 % 4; // (10 / 4 = 8) (10 - 8 = 2)
         System.out.println(remainderResult2);
 
+        // Operators (Simple example)
+        int x = 10;
+        int y = 20;
+        int result = x + y;
+        System.out.println(result);
+
+        int a = 30;
+        int b = 40;
+        int anotherResult = a - b;
+        System.out.println(anotherResult);
+
+        int c = 10 + 50;
+        int d = 30;
+        System.out.println(c - d);
+
     }
 }
